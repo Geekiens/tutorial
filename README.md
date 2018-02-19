@@ -1,2 +1,2 @@
 # tutorial
-checkout
+FORCE
